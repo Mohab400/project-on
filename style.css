@@ -225,7 +225,7 @@ header{
 }
 .footer.social-icons a{
   font-size: 1,3em;
-  padding: 0 15px 0 0;
+  padding: 0 3px 0 0;
 }
 @media (max-height: 1023){
   header{
